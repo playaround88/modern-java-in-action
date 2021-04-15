@@ -9,9 +9,9 @@ Java 8版本开始, Oracle开始加速Java的演进,而国内大部分还都停�
 * [致谢](acknowledgments.md)  
 
 * ### [Part 1. 起源](part_1_Fundamentals/README.md)
-  * [第一章 Java 8 9 10 11, 发生了什么?](part_1_Fundamentals/1_Java_8_9_10_and_11_what_happening.md)
-  * [第二章 使用streams函数风格数据处理](part_1_Fundamentals/2_Functional-style_data_processing_with_streams.md)
-  * [第三章 lambda表达式](part_1_Fundamentals/3_Lambda_expressions.md)
+  * [第1章 Java 8 9 10 11, 发生了什么?](part_1_Fundamentals/1_Java_8_9_10_and_11_what_happening.md)
+  * [第2章 使用streams函数风格数据处理](part_1_Fundamentals/2_Functional-style_data_processing_with_streams.md)
+  * [第3章 lambda表达式](part_1_Fundamentals/3_Lambda_expressions.md)
 
 * ### [Part 2. 使用streams函数风格数据处理](part_2_Functional-style_data_processing_with_streams/README.md)
   * [第4章 streams介绍](part_2_Functional-style_data_processing_with_streams/4_Introducing_streams.md)
@@ -54,3 +54,4 @@ Java 8版本开始, Oracle开始加速Java的演进,而国内大部分还都停�
 如果对你有帮助欢迎捐助, 请翻译者喝杯咖啡!  
 ![支付宝](assets/zfb.jpg)
 ![微信](assets/weixin.png)
+
